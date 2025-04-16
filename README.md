@@ -1,3 +1,5 @@
+## Customized for D. Cosh April 2025
+
 # ML4W Hyprland Starter 1.0.1
 
 The ML4W Hyprland Starter package is the perfect starting point for your Hyprland customization experiments.
